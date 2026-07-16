@@ -1,0 +1,24 @@
+
+# HappyBuster - Python Security Toolkit
+# Core Dependencies
+ 
+# Machine Learning & LLM Processing
+transformers>=4.30.0          # Hugging Face Transformers for NLP
+torch>=2.0.0                  # PyTorch (core ML framework)
+ 
+# Web Scraping & HTTP
+requests>=2.31.0              # HTTP requests library
+beautifulsoup4>=4.12.0        # HTML/XML parsing
+ 
+# Networking
+pycryptodome>=3.18.0          # Cryptographic library (for hash analysis)
+ 
+# Optional GPU Support (uncomment for CUDA acceleration)
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+ 
+# Development & Testing (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# pylint>=2.17.0
+# mypy>=1.0.0
+ 
