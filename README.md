@@ -48,8 +48,6 @@ Kali Linux / Parrot OS: Recommended for security testing
 
 1. Clone the Repository
 
-bashgit clone https://github.com/yourusername/happybuster.git
-cd happybuster
 
 2. Install Dependencies
 
